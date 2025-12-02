@@ -2,8 +2,9 @@
 
 Welcome to **Learn-Right-Now** – a free learning platform that provides coding tutorials, videos, and resources for students and self-learners!
 
-🔗 **Live Site:** [Learn-Right-Now](https://ishanwalia7579.github.io/Learn-Right--Now/)
-Download Apk app =[Learn-Right-Now}()
+🔗 **Live Site:** [Learn-Right-Now](https://ishanwalia7579.github.io/Learn-Right--Now/)<br>
+### Download Apk app 
+[Apk File Download only android Phine only](https://docs.google.com/uc?export=download&id=1Yf3relNBtIKHILmSa2JGcf_V7f9rVTxA)
 ## 🚀 Features
 
 - 🎥 Free educational videos
