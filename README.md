@@ -24,7 +24,14 @@ Welcome to **Learn-Right-Now** – a free learning platform that provides coding
 - Perfect for beginners  
 - Mobile + Web + App all-in-one  
 - Fast & lightweight
-  
+
+  ## 🎯 Who Can Use?
+
+- School students  
+- College students  
+- Coding beginners  
+- Self learners  
+- Job preparation students  
 ## 📸 Screenshot
 
 ![Screenshot](learn1.png)
