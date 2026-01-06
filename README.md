@@ -17,7 +17,14 @@ Welcome to **Learn-Right-Now** – a free learning platform that provides coding
 - 💬 Comment section using GitHub Discussions (planned)
 - 🌙 Light/Dark mode toggle (coming soon)
 - 🏆 Learn and earn badges (gamification idea)
+## 🏆 Why Learn-Right-Now?
 
+- 100% Free learning platform  
+- No ads, no paid traps  
+- Perfect for beginners  
+- Mobile + Web + App all-in-one  
+- Fast & lightweight
+  
 ## 📸 Screenshot
 
 ![Screenshot](learn1.png)
