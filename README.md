@@ -78,7 +78,11 @@ Welcome to **Learn-Right-Now** – a free learning platform that provides coding
  ┣ 📄 index.html
  ┣ 📄 README.md
 ```
+## 🏅 Certification System
 
+- Free certificates  
+- Auto-generated  
+- Shareable on LinkedIn  
 🚧 Upcoming Features
 <li>🔐 User login/signup system
 
