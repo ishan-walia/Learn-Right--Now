@@ -31,7 +31,18 @@ Welcome to **Learn-Right-Now** – a free learning platform that provides coding
 - College students  
 - Coding beginners  
 - Self learners  
-- Job preparation students  
+- Job preparation students
+
+## 🧩 Course Categories
+
+- Web Development  
+- Android Development  
+- Cyber Security  
+- Programming Basics  
+- Computer Fundamentals  
+- Git & GitHub  
+
+
 ## 📸 Screenshot
 
 ![Screenshot](learn1.png)
