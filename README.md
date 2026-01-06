@@ -50,6 +50,12 @@ Welcome to **Learn-Right-Now** – a free learning platform that provides coding
 ![Screenshot](learn3.png)
 ![Screenshot](learn4.png)*(Add your screenshot image in repo with name "screenshot.png")*
 
+## 🧪 Learning Style
+
+- Step-by-step video learning  
+- Notes + examples  
+- Practice based teaching  
+- Beginner to advanced flow  
 ## 🛠️ Tech Stack
 
 - HTML5
