@@ -46,6 +46,12 @@ Welcome to **Learn-Right-Now** – a free learning platform that provides coding
 - JavaScript
 - GitHub Pages (for deployment)
 
+## 🔐 Privacy & Security
+
+- No personal data collection  
+- No ads or trackers  
+- Student-friendly safe platform
+- 
 ## 📂 Folder Structure
 
 ```bash
